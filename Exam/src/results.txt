@@ -1,0 +1,5 @@
+Read from the file correctly 20/20
+Implement class hierarchy correctly 20/20
+Populate appropriate data structures with shape data 10/20 -- you need to parse the lines that you read
+Show list of shapes correctly 10/20 -- the compile error is because you need to add your buttons inside the ShapesTest constructor, and not in (static) main
+Show specific shape properties correctly 10/20 -- the code is there, but the compile error makes it not work
